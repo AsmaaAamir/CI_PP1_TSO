@@ -1,18 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script:wght@700&display=swap');
-
 * {
     margin: 0;
     padding: 0;
-    border: 0;
+    border: border-box;
 }
+body {
+    font-family: Dancing script, cursive;
+}
+h1, h2, h3, h4 {
+    color: darkmagenta
+}
+/*  Nav Bar & Logo */
 
 #logo {
     float:left;
-    padding-top: 5px;
-    padding-left: 5px;
 }
-/*  Nav Bar */
-
 #nav-menu, #logo {
     line-height: 75%;
 }
@@ -20,6 +22,7 @@
     font-family: Dancing script, cursive;
     font-size: 200%;
     letter-spacing: 2px;
+    padding-top: 45px;
     padding-right: 10px;
     color: darkmagenta;
 }
@@ -38,5 +41,31 @@
 }
 .active {
     border-bottom: 1px solid purple;
+}
+
+/* Footer */
+
+.footer-container {
+    max-width: 1170px;
+    background-color: lightblue;
+    margin: auto;
+
+
+}
+ul  {
+    list-style: none;
+}
+footer {
+    background-color: lightpink;
+    padding:70px 0;
+    height: 400px;
+}
+.footer-col {
+    width: 50%;
+    padding: 0 15px;
+}
+.footer-col li {
+list-style: none;
+color:blueviolet;
 }
 
