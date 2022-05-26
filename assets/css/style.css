@@ -94,6 +94,7 @@ h1, h2, h3, h4 {
 .card li {
     font-size: 35px;
 }
+/* News & Update */
 #news-updates h2 {
     padding:3%;
     text-align: center;
@@ -103,13 +104,22 @@ h1, h2, h3, h4 {
     background-repeat: no-repeat; 
     box-shadow: 8px 8px 16px 0 lightcoral;
 }
+#news-image {
+    border-radius: 10%;
+    border: 3px solid lightblue; 
+    width:300px;
+    height:300px;
+    padding:30px;
+    margin: 8%;
+    background-image: url('../images/news-homepage.PNG');
+    float: left;
+}
 
-
-
-
-/* News & Update */
-
-
+#news-text{
+    float:right;
+    width:45%;
+    padding-top:7%;
+}
 
 
 /* Footer */
