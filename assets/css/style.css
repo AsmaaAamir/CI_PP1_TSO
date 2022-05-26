@@ -95,7 +95,7 @@ h1, h2, h3, h4 {
     font-size: 35px;
 }
 /* News & Update */
-#news-updates h2 {
+#news-updates {
     padding:3%;
     text-align: center;
     font-size: 80px; 
@@ -104,20 +104,22 @@ h1, h2, h3, h4 {
     background-repeat: no-repeat; 
     box-shadow: 8px 8px 16px 0 lightcoral;
 }
-#news-image {
+.news {
+    font-size: 35px;
+    padding-top: 5%;
+}
+.news-image {
     border-radius: 10%;
-    border: 3px solid lightblue; 
     width:300px;
     height:300px;
-    padding:30px;
-    margin: 8%;
+    padding-bottom:10px;
+    margin: 2%;
     background-image: url('../images/news-homepage.PNG');
     float: left;
 }
-
-#news-text{
+.news-text{
     float:right;
-    width:45%;
+    width:50%;
     padding-top:7%;
 }
 
