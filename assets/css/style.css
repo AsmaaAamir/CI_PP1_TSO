@@ -51,56 +51,58 @@ h1, h2, h3, h4 {
     padding:3%;
     text-align: center;
     font-size: 80px; 
+    background-size: 100%;   
     background-image: url('../images/dailyflav-backdrop.jpg');
+    background-repeat: no-repeat;  
+    box-shadow: 8px 8px 16px 0 lightcoral;
 }
 
-#d-fav {
+.daily {
     display: flex;
     flex-direction: row;
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
-
+.daily h3 {
+    text-align: center;
+    padding-top: 3%;
+    font-size: 45px;
+}
 .card{
-    border:2px solid lightblue;
+    border:5px solid lightblue;
     border-radius: 5%;
     margin: 0 auto;
+    
+}
+.card:hover {
+    box-shadow: 8px 8px 16px 0 lightcoral;
 }
 .card .container {
-    padding: 2px 14px;
+    padding: 6px 21px;
     display: flex;
     flex-direction: column;
     text-align: center;
+    
 }
 .card img {
-    max-width: 250px;
+    max-width: 350px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 30%;
+    border-radius: 10%;
 }
 .card li {
     font-size: 35px;
 }
-
 #news-updates h2 {
     padding:3%;
     text-align: center;
     font-size: 80px; 
+    background-size: 100%;   
     background-image: url('../images/dailyflav-backdrop.jpg');
+    background-repeat: no-repeat; 
+    box-shadow: 8px 8px 16px 0 lightcoral;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
