@@ -129,6 +129,44 @@ h1, h2, h3, h4 {
     font-size: 45px;
 }
 /*  END OF HOME PAGE */
+
+/* START OF ABOUT US PAGE */
+
+.about-page h2 {
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 3%;
+    font-size: 80px;
+    color:rgb(64, 64, 211);
+}
+h4 {
+    font-size: 40px;
+    font-weight: bold;
+}
+.main-container p{
+    color:darkblue;
+    font-size:30px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+
+
+
+
+}
+/* END OF ABOUT US PAGE */
+
+
+
+
+
+
+
+
+
+
+
+
 /* Footer */
 
 .footer-container {
