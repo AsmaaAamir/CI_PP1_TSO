@@ -139,21 +139,52 @@ h1, h2, h3, h4 {
     font-size: 80px;
     color:rgb(64, 64, 211);
 }
+.line {
+    border: 2px solid yellowgreen;
+}
 h4 {
     font-size: 40px;
     font-weight: bold;
 }
-.main-container p{
+.main {
+    height:500px;
+}
+.main p{
     color:darkblue;
     font-size:30px;
-    padding-top: 3%;
+    text-align: center;
+    padding-top: 7%;
     padding-bottom: 3%;
+}
+.about-img__container  {
+    float: right;
+    margin: 6%;
+    position: relative;
+}
+.about-img__container::before {
+    content: '';
+    position: absolute;
+    top:-1.5rem;
+    left:-1.7rem;
+    width:100%;
+    height: 100%;
+    outline: 0.5rem solid peru;
+    z-index: -1;
+    transition: all 1s linear;
+}
+.about-img__container:hover:before {
+    top: 0;
+    left: 0;
+}
 
 
-
-
+.our-ingredient-container video {
+    align-items: left;
+    margin: 2%;
 
 }
+
+
 /* END OF ABOUT US PAGE */
 
 
