@@ -250,6 +250,7 @@ h2 {
 .bd-cake >p {
     font-size: 30px;
     text-align: center;
+    padding-bottom: 2%;
 }
 .w-cake h3{
     font-size:55px;
@@ -261,10 +262,34 @@ h2 {
     text-align: center;
     padding-bottom: 2%;
 }
+.c-cake h3{
+    font-size:55px;
+    text-align: center;
+    padding-top: 2%;
+}
+.c-cake >p {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 2%;
+}
+.brownies h3{
+    font-size:55px;
+    text-align: center;
+    padding-top: 2%;
+}
+.brownies >p {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+
+
 .card p {
     font-size: 25px;
     text-align: center;
     padding-top: 2%;
+    padding-bottom: 1%;
 }
 
   /* Float four columns side by side */
