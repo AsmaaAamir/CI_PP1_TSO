@@ -228,17 +228,15 @@ h4 {
 }
 /* END OF ABOUT US PAGE */
 
-/* CONTACT US PAGE */
+/* START OF CONTACT US PAGE */
  *.contact {
     box-sizing: border-box;
     font-family: caveat, sans-serif;
-    font-size: 25px;
 }
 .contactus {
-    position: relative;
-    width: 80%;
+    position:relative; 
+    width:80%;
     padding: 30px 60px;
-    
 }
 .contactus .title {
     display: flex;
@@ -247,8 +245,9 @@ h4 {
     font-size: 3.5em;
     margin-top: 5%;
 }
-.contactus .title h2{
-    color:cadetblue;
+.contactus .title h2 {
+    color: darkmagenta;
+    font-size:2.4em;
 }
 .box {
     position: relative;
@@ -257,10 +256,13 @@ h4 {
     grid-template-rows: 5fr 4fr;
     grid-template-areas: 
         "form info"
-        "from map";
+        "form map";
     grid-gap: 10px;
     margin-top: 80px;
 }
+.box .contact h3{
+    font-size: 55px;}
+
 .form {
     grid-area: form;
 }
@@ -272,17 +274,24 @@ h4 {
 }
 .contact {
     padding: 30px;
-    background-color: bisque;
-    box-shadow: 0 5px 35px lightblue;
+    box-shadow: 0 5px 35px rgba(0, 0, 0, 0.15);
 }
 .contact h3 {
-    color:blueviolet;
-    font-size: 2.5em;
+    color:darkorchid;
+    font-weight: 500;
+    font-size: 1.4em;
     margin-bottom: 10px;
+
 }
+
+/* form */
+
 .formbox {
+    margin: 0;
+    padding: 0;
     position: relative;
     width: 100%;
+    
 }
 .formbox .row40 {
     display: flex;
@@ -294,45 +303,50 @@ h4 {
     margin-bottom: 10px;
     width: 40%;
 }
-.formbox .row80 .inputbox {
-    width:82%;
+
+.formbox .row80 .inputbox{
+    width: 82%;
+
 }
 .inputbox span {
-    color: darkmagenta;
+    color:darkmagenta;
     margin-top: 10px;
     margin-bottom: 5px;
+    font-size:25px;
 }
 .inputbox input {
     padding: 10px;
     font-size: 1.1em;
     outline: none;
-    border: 1px solid grey;
+    border: 1px solid #333;
 }
 .inputbox textarea {
     padding: 10px;
     font-size: 1.1em;
-    outline:none;
-    border:1px solid grey;
-    resize:none;
-    min-height: 220px;;
+    outline: none;
+    border: 1px solid #333;
+    resize: none;
+    min-height: 220px;
     margin-bottom: 10px;
 }
 .inputbox input[type="submit"] {
-    background: lightpink;
-    color:bisque;
-    border:none;
+    background: #e96190;
+    color:beige;
+    border: none;
     font-size: 1.1em;
-    max-width: 120px;
+    max-width:120px;
+    font-weight:500;
     cursor: pointer;
     padding: 14px 15px;
 }
+/* Info */
 .info {
-    background-color: lightpink;
+    background: #d272a0;
 }
 .info h3 {
-    color:blueviolet;
+    color:darkmagenta;
 }
-.info .infobox div{
+.info .infobox div {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
@@ -340,7 +354,7 @@ h4 {
 .info .infobox div span {
     min-width: 40px;
     height: 40px;
-    color:blueviolet;
+    color:darkmagenta;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -351,28 +365,27 @@ h4 {
 .info .infobox div p{
     color:peachpuff
 }
-.inof .onfobox div a{
+.info .infobox div a{
     color:peachpuff;
     text-decoration: none;
     font-size: 1.1em;
 }
-
+/* Map */
 .map {
-    padding:0%
+    padding:0;
 }
 .map iframe {
-    width: 100%;
+    width:100%;
     height: 100%;
-
 }
-/* Footer */
+/* END OF CONTACT US PAGE */
+
+/* FOOTER */
 
 .footer-container {
     max-width: 1170px;
     background-color: lightblue;
     margin: auto;
-
-
 }
 ul  {
     list-style: none;
