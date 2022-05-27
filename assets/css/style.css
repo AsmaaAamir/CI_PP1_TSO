@@ -228,17 +228,143 @@ h4 {
 }
 /* END OF ABOUT US PAGE */
 
+/* CONTACT US PAGE */
+ *.contact {
+    box-sizing: border-box;
+    font-family: caveat, sans-serif;
+    font-size: 25px;
+}
+.contactus {
+    position: relative;
+    width: 80%;
+    padding: 30px 60px;
+    
+}
+.contactus .title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.5em;
+    margin-top: 5%;
+}
+.contactus .title h2{
+    color:cadetblue;
+}
+.box {
+    position: relative;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 5fr 4fr;
+    grid-template-areas: 
+        "form info"
+        "from map";
+    grid-gap: 10px;
+    margin-top: 80px;
+}
+.form {
+    grid-area: form;
+}
+.info {
+    grid-area: info;
+}
+.map {
+    grid-area: map;
+}
+.contact {
+    padding: 30px;
+    background-color: bisque;
+    box-shadow: 0 5px 35px lightblue;
+}
+.contact h3 {
+    color:blueviolet;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+.formbox {
+    position: relative;
+    width: 100%;
+}
+.formbox .row40 {
+    display: flex;
+    gap: 20px;
+}
+.inputbox {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 40%;
+}
+.formbox .row80 .inputbox {
+    width:82%;
+}
+.inputbox span {
+    color: darkmagenta;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.inputbox input {
+    padding: 10px;
+    font-size: 1.1em;
+    outline: none;
+    border: 1px solid grey;
+}
+.inputbox textarea {
+    padding: 10px;
+    font-size: 1.1em;
+    outline:none;
+    border:1px solid grey;
+    resize:none;
+    min-height: 220px;;
+    margin-bottom: 10px;
+}
+.inputbox input[type="submit"] {
+    background: lightpink;
+    color:bisque;
+    border:none;
+    font-size: 1.1em;
+    max-width: 120px;
+    cursor: pointer;
+    padding: 14px 15px;
+}
+.info {
+    background-color: lightpink;
+}
+.info h3 {
+    color:blueviolet;
+}
+.info .infobox div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.info .infobox div span {
+    min-width: 40px;
+    height: 40px;
+    color:blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.info .infobox div p{
+    color:peachpuff
+}
+.inof .onfobox div a{
+    color:peachpuff;
+    text-decoration: none;
+    font-size: 1.1em;
+}
 
+.map {
+    padding:0%
+}
+.map iframe {
+    width: 100%;
+    height: 100%;
 
-
-
-
-
-
-
-
-
-
+}
 /* Footer */
 
 .footer-container {
