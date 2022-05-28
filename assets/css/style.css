@@ -324,14 +324,11 @@ h2 {
   }
 /* START OF CONTACT US PAGE */
  *.contact {
-    
-    box-sizing: border-box;
     font-family: caveat, sans-serif;
 }
 .contactus {
     position:relative; 
     width:80%;
-    padding: 30px 60px;
 }
 .contactus .title {
     display: flex;
@@ -537,8 +534,7 @@ footer p {
 }
 .news-text {
     width: 56%; }
-.about-page {
-}
+
 .about-text p {
     float: left;
     width: 40%;
@@ -561,9 +557,12 @@ h2 {
 .column{
     width: 100%;
 }
-
-
-
+.contactus .title h2 {
+    font-size: inherit;
+}
+footer{
+    width: 800px;
+}
 
 } 
     
