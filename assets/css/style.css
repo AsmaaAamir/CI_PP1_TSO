@@ -577,15 +577,8 @@ h2 {
     justify-content: center;
 }
 .about-page h2 {
-font-size: 45px;
-padding-top: 20%;
-}
-.about-text {
-    padding-top:10%;
-}
-.about-img__container{
-    width: 20;
-    height: 20;
+    font-size: 45px;
+    padding-top: 20%;
 }
 .box {
     position: relative;
@@ -605,6 +598,48 @@ padding-top: 20%;
 .contactus .title{
     font-size: 35px;
     text-align: center;
+
+}
+.about-page h2 {
+    font-size: 35px;
+    padding-top: 5%;
+    padding-bottom: 6%;
 }
 
+.main {
+    width: 100%;
+    padding-left: 2%;
+}
+.about-img__container {
+    width:80%;
+    padding-right: 3%;
+}
+.line {
+    width: 100%;
+}
+.about-text h4{
+    text-align: center;
+}
+.about-text p{
+    width: 100%;
+    padding-top: 2%;
+} 
+.reipes-text h4 {
+    text-align: center;
+}
+footer h4 {
+    font-size: 25px;
+}
+footer p{
+    font-size:20px;
+}
+#daily-flav  h2 {
+    font-size:45px;
+}
+#news-updates h2 {
+    font-size: 50px;
+}
+.container ul li{
+    font-size:30px;
+} 
 }
