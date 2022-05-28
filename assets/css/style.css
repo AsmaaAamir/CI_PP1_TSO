@@ -531,15 +531,35 @@ footer p {
 
 /* Responsive to different size Screen */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 768px) {
 .news-image { 
     margin: 2.5px;
 }
 .news-text {
     width: 56%; }
+.about-page {
+
+}
+
+.about-text p {
+    float: left;
+    width: 40%;
+}
+.our-ingredient video {
+ width: 100%;
+ margin: 0;
+ padding: 0;
+}
+.ingredient-text {
+    width:100%;
+    padding:0%;
+}
+.ingredient-text h4 {
+    padding:0%;
+}
 } 
     
-@media screen and (max-width: 650px) { 
+@media screen and (max-width: 576px) { 
 .news-text {
     width: 50%; }
 }
@@ -547,13 +567,31 @@ footer p {
 @media screen and (max-width: 330px){
 .news-text {
     width: fit-content }
-}
+
 .news-text h3 {
     text-align: center;
 }
 .daily {
+    margin: 0;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: center;
+}
+.about-page h2 {
+font-size: 45px;
+padding-top: 20%;
+}
+.about-text {
+    padding-top:10%;
+}
+.about-img__container{
+    width: 20;
+    height: 20;
+}
+
+
+
+
+
 }
