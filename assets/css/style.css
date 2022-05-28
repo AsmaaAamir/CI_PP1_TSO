@@ -2,18 +2,16 @@
 * {
     margin: 0;
     padding: 0;
-    border: border-box;
 }
 body {
-    font-family: Dancing script, sans-serif;
+    font-family: dancingscript, sans-serif;
 }
 p, li {
     font-family: caveat, sans-serif;
-
 }
 h1, h2, h3, h4 {
     color: darkmagenta;
-    font-family: Dancing script, cursive;
+    font-family: Dancingscript, cursive;
 }
 /*  START OF HOME PAGE */
 
@@ -26,7 +24,7 @@ h1, h2, h3, h4 {
     line-height: 75%;
 }
 #nav-menu {
-    font-family: Dancing script, cursive;
+    font-family: dancingscript, cursive;
     font-size: 200%;
     letter-spacing: 2px;
     padding-top: 45px;
@@ -282,9 +280,6 @@ h2 {
     text-align: center;
     padding-bottom: 2%;
 }
-
-
-
 .card p {
     font-size: 25px;
     text-align: center;
@@ -325,10 +320,6 @@ h2 {
       margin-bottom: 20px;
     }
   }
-
-
-
-
 /* START OF CONTACT US PAGE */
  *.contact {
     
