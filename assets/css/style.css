@@ -16,9 +16,11 @@ h1, h2, h3, h4 {
 /*  START OF HOME PAGE */
 /* carousel */
 .carousel-control-prev{
-    position: absolute;
-    height: 5%;
-    top: 50%;
+    top: 50% !important;
+    transform: translateY(-50%);
+}
+.carousel-control-next{
+    top: 50% !important;
     transform: translateY(-50%);
 }
 /*  Nav Bar & Logo */
@@ -650,6 +652,11 @@ footer p{
 } 
 }
 
+/* Navbar solution */
 
-
-/* Carousel fix */ 
+.navbar>.container-fluid {
+    justify-content: flex-end !important;
+}
+.navbar {
+    justify-content: flex-end !important;
+}
