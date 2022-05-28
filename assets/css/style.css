@@ -15,8 +15,11 @@ h1, h2, h3, h4 {
 }
 /*  START OF HOME PAGE */
 /* carousel */
-.carousel-control-prev {
-    
+.carousel-control-prev{
+    position: absolute;
+    height: 5%;
+    top: 50%;
+    transform: translateY(-50%);
 }
 /*  Nav Bar & Logo */
 
@@ -646,3 +649,7 @@ footer p{
     font-size:30px;
 } 
 }
+
+
+
+/* Carousel fix */ 
