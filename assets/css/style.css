@@ -356,7 +356,8 @@ h2 {
     grid-template-areas: 
         "form info"
         "form map";
-    grid-gap: 10px;
+        grid-column-gap:10px;
+        grid-row-gap:10px;
     margin-top: 80px;
 }
 .box .contact h3{
@@ -386,8 +387,6 @@ h2 {
 /* form */
 
 .formbox {
-    margin: 0;
-    padding: 0;
     position: relative;
     width: 100%;
     
@@ -650,6 +649,7 @@ footer p{
 .container ul li{
     font-size:30px;
 } 
+
 }
 
 /* Navbar solution */
