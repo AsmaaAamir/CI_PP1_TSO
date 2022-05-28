@@ -19,6 +19,7 @@ h1, h2, h3, h4 {
 
 #logo {
     float:left;
+    margin: 1rem;
 }
 #nav-menu, #logo {
     line-height: 75%;
