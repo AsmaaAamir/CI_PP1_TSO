@@ -19,34 +19,35 @@ h1, h2, h3, h4 {
 
 #logo {
     float:left;
-    margin: 1rem;
+    margin: 1px;
 }
-#nav-menu, #logo {
-    line-height: 75%;
+.navbar #logo {
+    display: inline;
 }
-#nav-menu {
+.navbar {
     font-family: dancingscript, cursive;
     font-size: 200%;
     letter-spacing: 2px;
-    padding-top: 45px;
-    padding-right: 10px;
     color: darkmagenta;
 }
-#nav-menu li {
-    float: right;
+.navbar li {
     list-style-type: none;
     margin-right: 30px;
 }
-#nav-menu a{
+.navbar a{
     text-decoration: none;
     color: inherit;
 }
-#nav-menu a:hover{
+.navbar a:hover{
     border-bottom: 1px solid purple;
 }
-.active {
-    border-bottom: 1px solid purple;
+.navbar-nav {
+    padding-top: 1%;
+    float: right;
+
 }
+
+
 /* Daily Flavour */
 #daily-flav h2 {
     padding:3%;
@@ -121,8 +122,8 @@ h1, h2, h3, h4 {
 }
 .news-text{
     float:right;
-    width:50%;
-    padding-top:7%;
+    width:65%;
+    padding-top:3.5%;
 }
 .news h3 {
     font-size: 45px;
@@ -531,14 +532,28 @@ footer p {
 /* Responsive to different size Screen */
 
 @media screen and (max-width: 1200px) {
-
+.news-image { 
+    margin: 2.5px;
+}
+.news-text {
+    width: 56%; }
 } 
     
-@media screen and (max-width: 650) { }
-   
+@media screen and (max-width: 650px) { 
+.news-text {
+    width: 50%; }
+}
 
-@media screen and {
-
-
-
+@media screen and (max-width: 330px){
+.news-text {
+    width: fit-content }
+}
+.news-text h3 {
+    text-align: center;
+}
+.daily {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
 }
