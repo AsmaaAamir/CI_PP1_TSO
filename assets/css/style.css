@@ -553,7 +553,9 @@ footer p {
     .reipes-text h4 {
         font-size:40px;
     }
-
+    #heading {
+        font-size: 70px;
+    }
 
 
 }
