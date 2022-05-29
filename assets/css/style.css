@@ -533,7 +533,30 @@ footer p {
 }
 
 /* Responsive to different size Screen */
+@media screen and (max-width: 1030px) {
+    .news-text {
+        width:55%}
+    .main p {
+        padding-top: 3%;
+    }
+    .ingredient-text {
+        width: 100%;
+        padding-top: 0%;
+    }
+    .ingredient-text h4 {
+        padding-bottom: 0%;
+        font-size:40px;
+    }
+    .about-text h4 {
+        font-size:40px;
+    }
+    .reipes-text h4 {
+        font-size:40px;
+    }
 
+
+
+}
 @media screen and (max-width: 768px) {
 .news-image { 
     margin: 2.5px;
@@ -566,7 +589,6 @@ h2 {
 .contactus .title h2 {
     font-size: inherit;
 }
-
 
 } 
 @media screen and (max-width: 330px){
