@@ -589,7 +589,7 @@ h2 {
     padding-top: 3%;
 }
 .column{
-    width: 50%;
+    width: 50% !important;
 }
 .contactus .title h2 {
     font-size: inherit;
