@@ -560,6 +560,9 @@ footer p {
 
 }
 @media screen and (max-width: 768px) {
+.card {
+    width:100%;
+    }
 .news-image { 
     margin: 2.5px;
 }
@@ -586,7 +589,7 @@ h2 {
     padding-top: 3%;
 }
 .column{
-    width: 100%;
+    width: 50%;
 }
 .contactus .title h2 {
     font-size: inherit;
