@@ -298,9 +298,9 @@ h2 {
 }
 
   /* Float four columns side by side */
-  .column {
+.row > * {
     float: left;
-    width: 24.5%;
+    width: 24%;
     padding-left: 10px;
   }
   
@@ -322,14 +322,7 @@ h2 {
     background-color: #f1f1f1;
   }
   
-  /* Responsive columns - one column layout (vertical) on small screens */
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-      display: block;
-      margin-bottom: 20px;
-    }
-  }
+
 /* START OF CONTACT US PAGE */
  *.contact {
     font-family: caveat, sans-serif;
@@ -507,6 +500,9 @@ footer p {
     color: purple;
     line-height: 26px;
     font-size: 25px;
+}
+footer p > a {
+    color:purple;
 }
 .social-links {
     display: flex;

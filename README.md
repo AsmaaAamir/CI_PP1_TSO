@@ -1,4 +1,4 @@
-# The Sweet One 
+The Sweet One 
 Developer : Asma Aamir 
 [Live Webpage](https://asmaaaamir.github.io/CT_PP1_TSO/)
 
