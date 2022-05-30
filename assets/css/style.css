@@ -556,6 +556,9 @@ footer p {
     #heading {
         font-size: 70px;
     }
+    .column{
+        width: 50% !important;
+    }
 
 
 }
@@ -596,6 +599,34 @@ h2 {
 }
 
 } 
+
+@media screen and (max-width: 420px){
+.daily {
+    display: flex;
+    flex-direction: column;
+}
+.news-text {
+    width: 100%;
+}
+.about-text p {
+    width: 100%;
+}
+.column img {
+    width: 170px;
+    height: auto;
+}
+footer {
+    padding-top: 8%;
+
+}
+footer h4 {
+    line-height: 1;
+}
+}
+
+
+
+
 @media screen and (max-width: 330px){
 .news-text {
     width: fit-content }
