@@ -3,53 +3,89 @@ Developer : Asma Aamir
 [Live Webpage](https://asmaaaamir.github.io/CT_PP1_TSO/)
 
 
+1. [Project Goals](#proj)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Design Choices](#design-choices)
+    2. [Colour](#colours)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+    5. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-&-tools)
+5. [Features](#features)
+6. [Testing](#validation)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device testing](#performing-tests-on-various-devices)
+    6. [Browser compatibility](#browser-compatability)
+    7. [Testing user stories](#testing-user-stories)
+8. [Bugs](#Bugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
+
 1. Projects Goals
     User Goals:
         Find a bakery that offer cake of all kind of events. 
+        Find out what flavours of Cupcake and Brownies are baked daily.
         Find the location of the bakery
-        Find out what flavours of Cupcake and Brownies are baked.
+
+    Site Owner Goals:
+        Boots business reputation and sales
+        Provide informtion about the business to new to returning users 
+        Giving user the accessbity to have a look what business has to offer them at ther own time 
+        providng userto stay on conatct with the business different ways.
 
 2. User Experiencer
     1.Target Audience
-        People looking to hire someone to bake their Wedding Cake or birthday cake.
-        People looking for last minute Cakes for birthday, some leave work or even a surprise.
+        Users looking to hire someone to bake their Wedding Cake or birthday cake.
+        User looking for last minute Cakes for birthday, some leave work or even a surprise.
         Walk in user having the option to chose cupcake, brownies and Cakes takeaway with them. 
 
     2.Requirment and Expectations
-        Good presentation and a visually appealing design 
-        Links and funcaion that work as expected 
+        Good presentation and a visually appealing design   
         A simple and easy navigation system, where the user can easily find relevant information
-        The content is efficient and accessible
+        The content is efficient and accessible 
+        Links and funcation that work as expected 
 
     3.User Stories 
 
     First-time User:
-        As first-time user, I want to know where I can find store contact number to track my order.
-        As first-time user, I want to know how to finf the store address.
-        As first-time user, I would like to taste test cake for my wedding. 
-        As first-time user, I want to know what kind on ingredient you use.
+        As first-time user, I want to know where I can find store contact number.
+        As first-time user, I want to know how to find the store address.
+        As first-time user, I would like to taste test cake for my wedding before I place my order. 
+        As first-time user, I want to know what kind on ingredient bakry uses.
 
     Returning User:
-        As a returning user, I want to know where could I find daily freshly bakes cupcake and brownies flavour's. 
-        As a returning user, I would like to alter my birthday cake order where do I go. 
+        As a returning user, I want to know where I could find daily freshly bakes flavours of cupcake and brownies. 
+        As a returning user, I would like to alter my birthday cake order where do I do. 
         As a returning user, I want to know where can I find infromation about current or upcoming competition.
-        As a returning user, I want to when can I place Mother's Day cake order
+        As a returning user, I want to when can I place Mother's Day cake order.
 
 3. Design 
     1.Design choice
         The webpage was designed with keeping the store and the logo in vision, giving its user experience of colour, happiness and comfort. 
     2.Colour
-        When choosing the colour scheme, I kept the colourful cakes and happiness one feel when they eat a cake. Also keeping the logo in mind, I went for pink and light colours. 
+        When choosing the colour scheme, I kept the colourful cakes and happiness one feel when they are eatting a cake. Also keeping the logo in mind, I went for pink and light colours. 
     3.Fonts
-        When deciding on the font I kept the logo in mind and how the cake gives a smooth. So, I chose dancing script for my heading matching my logo and caveat so it's easy-to-read the content. 
+        When deciding on the font I kept the logo in mind and how the cake gives a smooth finsih. So, I chose dancing script for my heading matching my logo and caveat so it's easy-to-read the content. 
     4.Strucure
-        Upon arriving on the website, the user sees the logo with navigation bar which takes them to any of the pages they would like. Thus, on any of the pages if the user were to click on the logo it would take them to home page. the website consists of four pages:
-            A home page with two section one for Daily Flavours of cupcake and brownies and News section. 
-            A about page that tells you about the store, the ingredient the store uses and how everything is freshly every day. 
-            A product page that gives you option to choose from cakes, wedding Cakes, Cupcakes and Brownies.
-            A contact us page that has a form allowing user to send us a message, information on how contact store and a Map to find teh store. 
-
-        Basicly the structue of the website is simple easy to learn your way and find what user is looking for.
+        Upon arriving on the website, the user sees the logo with navigation bar which takes them to any of the pages they would like. However if the user wanted to go back to home pagethey could just click the logo on any page and t would take tye user back to home page.
+        The website consists of four pages:
+            A home page - that has two section one for Daily Flavours and second section is for News about the bakery. 
+            A about page - that tells user about the bakery, the ingredient the bakery uses and how everything is freshly  made every day. 
+            A product page - that gives you option to choose from products cakes, wedding Cakes, Cupcakes and Brownies.
+            A contact us page - that has a form allowing user to send bakery a message or enquiry, information on how contact store and a Map to find the bakery. 
+        Basicly the structue of the website is simple easy to learn your way and find what user is looking for. 
 
     5.Wireframes
 
