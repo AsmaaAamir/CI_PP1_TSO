@@ -4,10 +4,35 @@ Developer : Asma Aamir
 
 
 1. Projects Goals
+    User Goals :
+        Find a bakery that offer cake of all kind of events. 
+        Find the location of the resturant
+        Find out what flaours of Cupcake and Brownies are baked.
+
 2. User Experiencer
     1.Target Audience
+        People looking to hire someone to bake their Wedding Cake or birthday cake.
+        People looking for last mintue Cakes for birthday, some leave work or even a surpirse.
+        Walk in user having the option to chose cupcake, brownies and Cakes takeawat with them. 
+
     2.Requirment and Expecrations
+        Good presentation and a viuslly appealling design 
+        Links and funcation that work as expected 
+        A simple and easy navigation system, where the user can easy find relvant information
+        The content is efficient and accessaible
+
     3.User Stories 
+    First time User:
+        As first time user, I want to know where i can find store contact number to track my order.
+        As first time user, I want to know how to finf the sotre address.
+        As first time user, I would like to taste test cake for my wedding. 
+        As first time user, I want to know what kind on ingredient you use.
+
+    Returning User:
+        As a returing user, I want to know where could I find daily freshly bakes cupocake and brownies flavour's. 
+        As a returing user, I would like to alter my brithday cake order where do I go. 
+        As a returing user, I want to know where can I find infromtion about current or upcoming competition.
+        As a returing user, I want to when can I place Mother's day cake order
 
 3. Design 
     1.Design choice 
