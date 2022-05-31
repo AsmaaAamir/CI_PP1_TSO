@@ -256,7 +256,7 @@ The HTML code for Navigation Bar [https://getbootstrap.com/docs/5.0/components/n
 ### Media 
 The images and video are from two different website below I will tell in appearance of order;
 * Home Page
-    - All the four images in the carousle are from Pexels [https://www.pexels.com/search/image/].
+    - All the four images in the carousle are from <a href ="https://www.pexels.com/search/image/">Pexels </a>.
         <a href="https://www.pexels.com/photopink-macaroons-placed-among-carnations-on-table-7474293">Image 1 </a>
         <a href="https://www.pexels.com/photo/cupcakes-on-wooden-tray-near-sweets-and-macaroons-with-blueberries-7525120/"> Image 2 </a>
         <a href="https://www.pexels.com/photo/crop-woman-with-tasty-macaroons-7525146/"> Image 3</a>
@@ -265,10 +265,10 @@ The images and video are from two different website below I will tell in appeara
 * About Page 
     - Shop in display image is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture </a>
     - The video is from  <a href="https://www.pexels.com/video/stirring-flour-and-condensed-milk-in-a-mixing-bowl-3325984/"> Pexels</a>
-    - The last image on this page is from <a herf="https://www.instagram.com/crumbsanddoilies/">Crumbs and Doilies</a>.
+    - The last image on this page is from <a href="https://www.instagram.com/crumbsanddoilies/">Crumbs and Doilies</a>.
 * Product Page
     - The Cake, Wedding Cake and Cupcake section images are from  <a href="https://www.instagram.com/annacakecouture/"> Annacakecoutre</a>. 
-    - The Brownines images are from <a herf="https://www.instagram.com/crumbsanddoilies/"> Crumbs and Doilies</a>.
+    - The Brownines images are from <a href="https://www.instagram.com/crumbsanddoilies/"> Crumbs and Doilies</a>.
    
 ### Acknowledgements 
 I would like to take this opportunit to thank :
