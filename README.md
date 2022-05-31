@@ -2,35 +2,35 @@
 (Developer : Asma Aamir)
 ![I am Responsive](docs/responsive-screens.png)
 
-[Live Webpage](https://asmaaaamir.github.io/CT_PP1_TSO/)
+[Live Webpage](https://asmaaaamir.github.io/CI_PP1_TSO/)
 
 
 1. [Project Goals](#projects-goals)
     1. [User Goals](#user-goals)
     2. [Site Owner Goals](#site-owner-goals)
-2. [User Experience](#user-experience)
+2. [User Experience](#user-experiencer)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requrements and Expectations](#users-requirment-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
-    1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    1. [Design Choices](#design-choice)
+    2. [Colour](#colour)
     3. [Fonts](#fonts)
-    4. [Structure](#structure)
+    4. [Structure](#strucure)
     5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    2. [Frameworks & Tools](#frameworks--tools)
 5. [Features](#features)
 6. [Testing](#validation)
-    1. [HTML Validation](#HTML-validation)
-    2. [CSS Validation](#CSS-validation)
-    3. [Accessibility](#accessibility)
+    1. [HTML Validation](#html-validation)
+    2. [CSS Validation](#css-validation)
+    3. [Accessibility](#accessiblity)
     4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
+    6. [Browser compatibility](#browser-compatabilty)
+    7. [Testing user stories](#test-users-stories)
+8. [Bugs](#bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
@@ -54,7 +54,7 @@
 * User looking for last minute Cakes for birthday, some leave work or even a surprise.
 * Walk in user having the option to chose cupcake, brownies and Cakes takeaway with them. 
 
-### Requirment and Expectations
+### Users Requirment and Expectations
 * Good presentation and a visually appealing design   
 * A simple and easy navigation system, where the user can easily find relevant information
 * The content is efficient and accessible 
@@ -183,8 +183,10 @@ Shows the user where the store is locoated on embeded Googel Map. <br>
 User story: 5
 
 ## Testing 
-### Validation  
-#### HTML
+
+### Validation 
+
+#### HTML Validation
 I used the W3C Markup Validation Service to validate the HTML of this website. All pages pass with no errors and no warning were shown. 
 <details> <summary>Home</summary>
 <img src="docs/validation/home-html-validate.png"></details>
@@ -195,7 +197,7 @@ I used the W3C Markup Validation Service to validate the HTML of this website. A
 <details> <summary>Contact Us</summary>
 <img src="docs/validation/contact-html-validate.png"></details>
 
-#### CSS 
+#### CSS Validation
 I used the W3C Jigsaw CSS Valdation Service to validate the CSS of this website and it all passed. 
 style.CSS 
 <img src="docs/validation/css-validates.png"></details>
@@ -220,7 +222,7 @@ To test perpormace of the website Google Lighthouse in Google Developer Tools wa
 <details> <summary>Contact Us</summary>
 <img src="docs/validation/contact-performance.png"></details>
 
-#### Performing test on various devices
+#### Performing tests on various devices 
 * Mac
 * iPad
 * iPhone 13 Max 
@@ -233,9 +235,27 @@ I have tested the website on few different browser such as:
 * Safari 
 * Microsoft Egde
 
+#### Test users stories
+1. As first-time user, I want to know where I can find store contact number.
+|** Feature ** | ** Action ** | ** Expected Result ** | ** Actual Result ** | 
+|--------------|-------------- | ------------ |------------|
+The Footer has contact information or user can go to Contact Us page|On any of the pages user can scrool downa dn fid the footer. Also on top any page the Navbar had contact page| Find the contact number| Works as expected| 
+ <details> <summary>Stroy 1</summary>
+<img src="docs/user-story/userstory-1.png"></details>
+
+2. As first-time user, I want to know how to find the store address.
+3. As first-time user, I would like to taste test cake for my wedding before I place my order. 
+4. As first-time user, I want to know what kind on ingredient bakry uses.
+
+### Returning User:
+1. As a returning user, I want to know where I could find daily freshly bakes flavours of cupcake and brownies. 
+2. As a returning user, I would like to alter my birthday cake order where do I do. 
+3. As a returning user, I want to know where can I find infromation about current or upcoming competition.
+4. As a returning user, I want to when can I place Mother's Day cake order.
+
 ### Bugs
 
-|**Bug ** | ** Fix ** |
+|** Bug ** | ** Fix ** |
 |-----        |  ----------- |
 |On smaller screen the toggle was moved to left handside | In style sheet added !important to justify-content|
 |Carousle next and previouse button were taking all the space on home page | In styles sheet add the percentage and transform. |
@@ -263,7 +283,7 @@ The images and video are from two different website below I will tell in appeara
         <a href="https://www.pexels.com/photo/lady-standing-in-cafeteria-and-demonstrating-sign-open-6205480/">Image 4 </a>
     - Image in background for daily flavour and News is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture </a>. Also the images in these section are from there.
 * About Page 
-    - Shop in display image is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture </a>
+    - Caked on display in a shop image is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture </a>
     - The video is from  <a href="https://www.pexels.com/video/stirring-flour-and-condensed-milk-in-a-mixing-bowl-3325984/"> Pexels</a>
     - The last image on this page is from <a href="https://www.instagram.com/crumbsanddoilies/">Crumbs and Doilies</a>.
 * Product Page
