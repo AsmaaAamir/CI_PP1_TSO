@@ -204,7 +204,7 @@ style.CSS
 
 #### Accessiblity 
 <details> <summary>Home</summary>
-<img src="docs/validation/accessibility-home-page.png"></details>
+<img src="docs/validation/accessibility-home-page-png"></details>
 <details> <summary>About Us </summary>
 <img src="docs/validation//accessibility-about-page.png"></details>
 <details> <summary>Products </summary>
