@@ -153,13 +153,19 @@ User story: 6
 <img src="docs/features/recipes-ingredient.png">
 
 ### Products: 
-On this page customer are able to see four section:
-- cakes 
-- Wedding Cakes 
-- Cupcake Flavours
-- Brownies
-Each section has four different flavour of that specific item and some information about what it contain's. 
+On this page users are able to see four section and Each section has four different flavour of that specific item and some information about what it contain's. 
 User stories: 2 and 3.
+The four section are:
+- cakes 
+<img src="docs/features/cakes-screenshot.png">
+- Wedding Cakes 
+<img src="docs/features/weddingcake-screenshot.png">
+- Cupcake Flavours
+<img src="docs/features/cupcake0screenshot.png">
+- Brownies
+<img src="docs/features/brownies-screenshot.png">
+
+
 
 ### Contact Form 
 User can use the fomr to conatc the store to palce orders or araneg ameetig for wedding cakes.
