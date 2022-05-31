@@ -161,7 +161,7 @@ The four section are:
 - Wedding Cakes 
 <img src="docs/features/weddingcake-screenshot.png">
 - Cupcake Flavours
-<img src="docs/features/cupcake0screenshot.png">
+<img src="docs/features/cupcake-screenshot.png">
 - Brownies
 <img src="docs/features/brownies-screenshot.png">
 
