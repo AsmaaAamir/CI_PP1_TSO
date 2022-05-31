@@ -257,18 +257,18 @@ The HTML code for Navigation Bar [https://getbootstrap.com/docs/5.0/components/n
 The images and video are from two different website below I will tell in appearance of order;
 * Home Page
     - All the four images in the carousle are from Pexels [https://www.pexels.com/search/image/].
-        Image 3 <a href="https://www.pexels.com/photo/pink-macaroons-placed-among-carnations-on-table-7474293/"></a>
-        Image 2 <a href="https://www.pexels.com/photo/cupcakes-on-wooden-tray-near-sweets-and-macaroons-with-blueberries-7525120/"> </a>
-        Image 3 <a href="https://www.pexels.com/photo/crop-woman-with-tasty-macaroons-7525146/"></a>
-        Image 4 <a href="https://www.pexels.com/photo/lady-standing-in-cafeteria-and-demonstrating-sign-open-6205480/"></a>
-    - Image in background for daily flavour and News is from Annacakecouture. Also the images in these section are from there.
+        <a href="https://www.pexels.com/photopink-macaroons-placed-among-carnations-on-table-7474293">Image 1 </a>
+        <a href="https://www.pexels.com/photo/cupcakes-on-wooden-tray-near-sweets-and-macaroons-with-blueberries-7525120/"> Image 2 </a>
+        <a href="https://www.pexels.com/photo/crop-woman-with-tasty-macaroons-7525146/"> Image 3</a>
+        <a href="https://www.pexels.com/photo/lady-standing-in-cafeteria-and-demonstrating-sign-open-6205480/">Image 4 </a>
+    - Image in background for daily flavour and News is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture </a>. Also the images in these section are from there.
 * About Page 
-    - Shop in display image is from Annacakecouture< a href="https://www.instagram.com/annacakecouture/">. 
-    - The video is from Pexels <a href="https://www.pexels.com/video/stirring-flour-and-condensed-milk-in-a-mixing-bowl-3325984/"> </a>
+    - Shop in display image is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture </a>
+    - The video is from  <a href="https://www.pexels.com/video/stirring-flour-and-condensed-milk-in-a-mixing-bowl-3325984/"> Pexels</a>
     - The last image on this page is from Crumbs and Doilies.
 * Product Page
-    - The Cake, Wedding Cake and Cupcake section images are from Annacakecoutre <a href="https://www.instagram.com/annacakecouture/"> </a>. 
-    - The Brownines images are from Crumbs and Doilies <a herf="https://www.instagram.com/crumbsanddoilies/"> </a>.
+    - The Cake, Wedding Cake and Cupcake section images are from  <a href="https://www.instagram.com/annacakecouture/"> Annacakecoutre</a>. 
+    - The Brownines images are from  <a herf="https://www.instagram.com/crumbsanddoilies/"> Crumbs and Doilies</a>.
    
 ### Acknowledgements 
 I would like to take this opportunit to thank :
