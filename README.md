@@ -217,7 +217,7 @@ To test perpormace of the website Google Lighthouse in Google Developer Tools wa
 <details> <summary>Contact Us</summary>
 <img src="docs/validation/contact-performance.png"></details>
 
-#### Performing test on various devices
+### Performing test on various devices
 Mac
 iPad
 iPhone 13 Max 
