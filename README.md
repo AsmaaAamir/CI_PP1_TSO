@@ -250,9 +250,13 @@ I followed the below steps to deploye this website using GitHub pages :
 5. It will take couple of mintues after refreshing your page you should see a light green ribbon on the top saying "Your site is published at https://asmaaaamir.github.io/CI_PP1_TSO/". 
 
 ## Credits
-    Content 
-        Carousel 
-        card 
-    Media 
+### code
+### Media 
         Images
         Video
+ 
+### Acknowledgements 
+I would like to take this opportunit to thank :
+- My mentor Mo Shami for his feedback , advise and guidance
+- The two tutor who helped me solved two issue Alex and James.
+- My mum Farida Liaqat for looking after my daughter and my daughter Zainab Rana for being very patient with me while I sit on computer all day. 
