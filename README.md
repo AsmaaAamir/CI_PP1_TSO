@@ -11,7 +11,6 @@
 2. [User Experience](#user-experiencer)
     1. [Target Audience](#target-audience)
     2. [User Requrements and Expectations](#users-requirment-and-expectations)
-    3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choice)
     2. [Colour](#colour)
@@ -100,7 +99,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 <details> <summary>Products</summary>
 <img src="docs/wireframe/productpage-wireframe.png"></details>
 <details> <summary>Contact Us</summary>
-<img src=""></details>
+<img src="docs.wireframe.contactpage-wireframe.png"></details>
 
 ## Technologies Used 
 
