@@ -99,7 +99,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 <details> <summary>Products</summary>
 <img src="docs/wireframe/productpage-wireframe.png"></details>
 <details> <summary>Contact Us</summary>
-<img src="docs.wireframe.contactpage-wireframe.png"></details>
+<img src="docs/wireframe/contactpage-wireframe.png"></details>
 
 ## Technologies Used 
 
