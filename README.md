@@ -90,7 +90,7 @@ The website consists of four pages:
 - A product page - that gives you option to choose from products cakes, wedding Cakes, Cupcakes and Brownies.
 - A contact us page - that has a form allowing user to send bakery a message or enquiry, information on how contact store and a Map to find the bakery. 
 <br>
-Basicly the structue of the website is simple easy to learn your way and find what user is looking for. 
+Basicly the structue of the website is simple easy to learn your way and find what the user is looking for. 
 
 ### Wireframes
 <details> <summary>Home</summary>
@@ -156,6 +156,7 @@ User story: 6
 On this page users are able to see four section and Each section has four different flavour of that specific item and some information about what it contain's. <br>
 User stories: 2 and 3. <br>
 The four section are:
+
 - Cakes 
 <img src="docs/features/cakes-screenshot.png">
 
@@ -167,7 +168,6 @@ The four section are:
 
 - Brownies
 <img src="docs/features/brownies-screenshot.png">
-
 
 
 ### Contact Form 
@@ -212,7 +212,7 @@ Contact Us
 #### Performance 
 To test perpormace of the website Google Lighthouse in Google Developer Tools was used.
 <details> <summary>Home</summary>
-<img src="docs/validation/homepage-performance.png"></details>
+<img src="docs/validation/home-page-performance.png"></details>
 <details> <summary>About Us </summary>
 <img src="docs/validation/aboutpage-performance.png"></details>
 <details> <summary>Products </summary>
@@ -225,7 +225,7 @@ To test perpormace of the website Google Lighthouse in Google Developer Tools wa
 * iPad
 * iPhone 13 Max 
         
-In addition, to above devises i have also tested using Google Chrome Developer Tool Device Toggeling option for most populer devices that are currenty avaible in the market. 
+In addition, to above devises I have also tested using Google Chrome Developer Tool Device Toggeling option for the most populer devices that are currenty available on the market. 
 
 #### Browser Compatabilty 
 I have tested the website on few different browser such as:
@@ -234,6 +234,10 @@ I have tested the website on few different browser such as:
 * Microsoft Egde
 
 7. Bugs
+
+|Bug | Fix |
+|On smaller screen the toggle was moved to left handside | In style sheet added !important to justify-content.
+|Carousle next and previouse button were taking all the space on home page | In styles sheet add te presentage and transform. 
 
 8. Deployment
 

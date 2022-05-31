@@ -721,6 +721,3 @@ footer p{
 .navbar>.container-fluid {
     justify-content: flex-end !important;
 }
-.navbar {
-    justify-content: flex-end !important;
-}
