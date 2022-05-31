@@ -126,17 +126,17 @@ The logo and the navbar is featured on all four pages and is fully responsive th
 
 ### Carousel
 When the user open the webpage they are welcomed with a 4 slide show, thats gives them the option for them to navigate to the next slide or to previous slide. 
-<img src="docs/features/carousel-screenshot.png">
+<img src="docs/features/carousle-screenshot.png">
     
 ### Daily Flavour's
 Allowes the user to have a look what flavours that are avalibale for cupcakes and brownies. 
 User story covered: 4 
-<img src="docs/features/dailyflavour-screenshit.png">
+<img src="docs/features/dailyflavour-screenshot.png">
       
 ### News
 Allowes the users to see upcoming events order deadlines and if we have any ongoing or coming competition, whihc alows them to enter and win a price. 
 User story covered: 7 
-<img src="docs/features/news-screenshot">
+<img src="docs/features/news-screenshot.png">
 
 ### Footer
 The Footer is featured on all four pages and it contain contact information and soical media links. 
