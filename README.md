@@ -37,9 +37,9 @@
 
 1. Projects Goals
     User Goals:
-        Find a bakery that offer cake of all kind of events. 
-        Find out what flavours of Cupcake and Brownies are baked daily.
-        Find the location of the bakery
+        * Find a bakery that offer cake of all kind of events. 
+        * Find out what flavours of Cupcake and Brownies are baked daily.
+        * Find the location of the bakery
 
     Site Owner Goals:
         Boots business reputation and sales
