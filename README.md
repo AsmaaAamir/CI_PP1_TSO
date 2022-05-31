@@ -92,7 +92,10 @@ The website consists of four pages:
 Basicly the structue of the website is simple easy to learn your way and find what user is looking for. 
 
 ### Wireframes
-[Home](docs/wireframe/homepage-wireframe.png)
+<details> <summary>Home</summary>
+<img src="docs/wireframe/homepage-wireframe.png">
+<details>
+    
 
 
 ## Technologies Used 
