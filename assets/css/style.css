@@ -240,6 +240,10 @@ h4 {
 * {
     box-sizing: border-box;
 }
+.column {
+    width:24% !important;
+}
+
 h2 {
     font-size: 60px;
     text-align: left;
@@ -247,8 +251,8 @@ h2 {
     padding-left:3%;
 }
 .card img{
-    width:300px;
-    height: 300px;
+    width:250px;
+    height: 250px;
 }
 .bd-cake h3{
     font-size:55px;
