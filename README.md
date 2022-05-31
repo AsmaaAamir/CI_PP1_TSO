@@ -83,20 +83,18 @@ When choosing the colour scheme, I kept the colourful cakes and happiness one fe
 ### Fonts
 When deciding on the font I kept the logo in mind and how the cake gives a smooth finsih. So, I chose dancing script for my heading matching my logo and caveat so it's easy-to-read the content. 
 ### Strucure
-Upon arriving on the website, the user sees the logo with navigation bar which takes them to any of the pages they would like. However if the user wanted to go back to home pagethey could just click the logo on any page and t would take tye user back to home page.
+Upon arriving on the website, the user sees the logo with navigation bar which takes them to any of the pages they would like. However if the user wanted to go back to home pagethey could just click the logo on any page and  would take the user back to home page. 
 The website consists of four pages:
 - A home page - that has two section one for Daily Flavours and second section is for News about the bakery. 
 - A about page - that tells user about the bakery, the ingredient the bakery uses and how everything is freshly  made every day. 
 - A product page - that gives you option to choose from products cakes, wedding Cakes, Cupcakes and Brownies.
 - A contact us page - that has a form allowing user to send bakery a message or enquiry, information on how contact store and a Map to find the bakery. 
+<hr>
 Basicly the structue of the website is simple easy to learn your way and find what user is looking for. 
 
 ### Wireframes
 <details> <summary>Home</summary>
-<img src="docs/wireframe/homepage-wireframe.png">
-<details>
-    
-
+<img src="docs/wireframe/homepage-wireframe.png"></details>
 
 ## Technologies Used 
 
