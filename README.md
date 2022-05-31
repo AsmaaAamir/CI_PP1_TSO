@@ -236,10 +236,11 @@ I have tested the website on few different browser such as:
 * Microsoft Egde
 
 #### Test users stories
-1. As first-time user, I want to know where I can find store contact number.
+1. As first-time user, I want to know where I can find store contact number
+
 |** Feature ** | ** Action ** | ** Expected Result ** | ** Result ** | 
 |--------------|------------- | ----------------------|---------------------|
-The Footer has contact information or user can go to Contact Us page|On any of the pages user can scroll down and find the footer. Also on top any page the Navbar has contact page link| Find the contact number| Works as expected| 
+|The Footer has contact information or user can go to Contact Us page| On any of the pages user can scroll down and find the footer. Also on top any page the Navbar has contact page link| Find the contact number| Works as expected| 
  <details> <summary>Story 1</summary>
 <img src="docs/user-story/userstory-1.png"></details>
 
