@@ -195,6 +195,7 @@ I used the W3C Markup Validation Service to validate the HTML of this website. A
 #### CSS 
 I used the W3C Jigsaw CSS Valdation Service to validate the CSS of this website and it all passed. 
 style.CSS 
+<img src="docs/validation/css-validates.png"></details>
 
 #### Accessiblity 
 Home
