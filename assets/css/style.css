@@ -13,6 +13,7 @@ h1, h2, h3, h4 {
     color: darkmagenta;
     font-family: Dancingscript, cursive;
 }
+
 /*  START OF HOME PAGE */
 /* carousel */
 .carousel-control-prev{
@@ -151,7 +152,7 @@ h1, h2, h3, h4 {
     border: 2px solid yellowgreen;
 }
 h4 {
-    font-size: 40px;
+    font-size: 60px;
     font-weight: bold;
 }
 .main .our-ingredient .our-recipes{
