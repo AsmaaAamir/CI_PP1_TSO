@@ -98,7 +98,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 <details> <summary>About Us</summary>
 <img src="docs/wireframe/aboutpage-wireframe.png"></details>
 <details> <summary>Products</summary>
-<img src="docs/wireframe/pdrouctpage-wireframe.png"></details>
+<img src="docs/wireframe/productpage-wireframe.png"></details>
 <details> <summary>Contact Us</summary>
 <img src=""></details>
 ## Technologies Used 
