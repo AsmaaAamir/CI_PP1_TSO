@@ -148,20 +148,23 @@ This pages consistes of three section the first section gives a description on w
 <img src="docs/features/about-text-image.png">
 Second section tell you is a video, thats mute and on loop showing you cake mixture being mixed. 
 <img src="docs/features/video-screenshot.png">
-thired section has sominformtipn about our recipies and ingrenetd with a image between. <br>
+Thired section has sominformtipn about our recipies and ingrenetd with a image between. <br>
 User story: 6
 <img src="docs/features/recipes-ingredient.png">
 
 ### Products: 
 On this page users are able to see four section and Each section has four different flavour of that specific item and some information about what it contain's. <br>
-User stories: 2 and 3.
+User stories: 2 and 3. <br>
 The four section are:
-- cakes 
+- Cakes 
 <img src="docs/features/cakes-screenshot.png">
+
 - Wedding Cakes 
 <img src="docs/features/weddingcake-screenshot.png">
+
 - Cupcake Flavours
 <img src="docs/features/cupcake-screenshot.png">
+
 - Brownies
 <img src="docs/features/brownies-screenshot.png">
 
