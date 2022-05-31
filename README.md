@@ -233,7 +233,7 @@ I have tested the website on few different browser such as:
 * Safari 
 * Microsoft Egde
 
-7. Bugs
+### Bugs
 
 |**Bug ** | ** Fix ** |
 |-----        |  ----------- |
@@ -241,7 +241,7 @@ I have tested the website on few different browser such as:
 |Carousle next and previouse button were taking all the space on home page | In styles sheet add the percentage and transform. |
 |The products images were over flowing out of card on smaller screen| Fixed the issue with setting up width and height on smaller screen|
 
-8. Deployment
+## Deployment
 I followed the below steps to deploye this website using GitHub pages :
 1. Go to GitHub repository navigation then setting
 2. On the left hand side, you see Pages 
@@ -249,7 +249,7 @@ I followed the below steps to deploye this website using GitHub pages :
 4. The select folder to be root and the save 
 5. It will take couple of mintues after refreshing your page you should see a light green ribbon on the top saying "Your site is published at https://asmaaaamir.github.io/CI_PP1_TSO/". 
 
-9. Credits
+## Credits
     Content 
         Carousel 
         card 
