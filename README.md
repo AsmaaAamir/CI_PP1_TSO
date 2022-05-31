@@ -89,7 +89,7 @@ The website consists of four pages:
 - A about page - that tells user about the bakery, the ingredient the bakery uses and how everything is freshly  made every day. 
 - A product page - that gives you option to choose from products cakes, wedding Cakes, Cupcakes and Brownies.
 - A contact us page - that has a form allowing user to send bakery a message or enquiry, information on how contact store and a Map to find the bakery. 
-<hr>
+<br>
 Basicly the structue of the website is simple easy to learn your way and find what user is looking for. 
 
 ### Wireframes
