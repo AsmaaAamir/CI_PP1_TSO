@@ -1,6 +1,6 @@
 # The Sweet One 
 (Developer : Asma Aamir)
-![I am Responsive](doc/resonsive-screen.png)
+![I am Responsive](docs/responsive-screens.png)
 
 [Live Webpage](https://asmaaaamir.github.io/CT_PP1_TSO/)
 
