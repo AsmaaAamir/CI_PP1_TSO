@@ -129,17 +129,17 @@ When the user open the webpage they are welcomed with a 4 slide show, thats give
 <img src="docs/features/carousle-screenshot.png">
     
 ### Daily Flavour's
-Allowes the user to have a look what flavours that are avalibale for cupcakes and brownies. 
+Allowes the user to have a look what flavours that are avalibale for cupcakes and brownies. <br>
 User story covered: 4 
 <img src="docs/features/dailyflavour-screenshot.png">
       
 ### News
-Allowes the users to see upcoming events order deadlines and if we have any ongoing or coming competition, whihc alows them to enter and win a price. 
+Allowes the users to see upcoming events order deadlines and if we have any ongoing or coming competition, whihc alows them to enter and win a price. <br>
 User story covered: 7 
 <img src="docs/features/news-screenshot.png">
 
 ### Footer
-The Footer is featured on all four pages and it contain contact information and soical media links. 
+The Footer is featured on all four pages and it contain contact information and soical media links. <br>
 User stories covered : 1 and 5
 <img src="docs/features/footer-screenshot.png">
 
@@ -148,12 +148,12 @@ This pages consistes of three section the first section gives a description on w
 <img src="docs/features/about-text-image.png">
 Second section tell you is a video, thats mute and on loop showing you cake mixture being mixed. 
 <img src="docs/features/video-screenshot.png">
-thired section has sominformtipn about our recipies and ingrenetd with a image between. 
+thired section has sominformtipn about our recipies and ingrenetd with a image between. <br>
 User story: 6
 <img src="docs/features/recipes-ingredient.png">
 
 ### Products: 
-On this page users are able to see four section and Each section has four different flavour of that specific item and some information about what it contain's. 
+On this page users are able to see four section and Each section has four different flavour of that specific item and some information about what it contain's. <br>
 User stories: 2 and 3.
 The four section are:
 - cakes 
@@ -168,25 +168,29 @@ The four section are:
 
 
 ### Contact Form 
-User can use the fomr to conatc the store to palce orders or araneg ameetig for wedding cakes.
+User can use the fomr to conatc the store to palce orders or araneg ameetig for wedding cakes. <br>
 User stories: 2 and 3. 
         
 ### Contact details 
-Provides the user with store locoation information and contact details. 
+Provides the user with store locoation information and contact details. <br>
 User story: 1. 
         
 ### Map 
-Shows the user where the store is locoated on embeded Googel Map. 
+Shows the user where the store is locoated on embeded Googel Map. <br>
 User story: 5
 
 ## Testing 
 ### Validation  
 #### HTML
 I used the W3C Markup Validation Service to validate the HTML of this website. All pages pass with no errors and no warning were shown. 
-Home 
-About Us
-Products 
-Contact Us 
+<details> <summary>Home</summary>
+<img src="docs/validation/home-html-validate.png"></details>
+<details> <summary>About Us </summary>
+<img src="docs/validation/about-html-validate.png"></details>
+<details> <summary>Products </summary>
+<img src="docs/validation/product-html-validate.png"></details>
+<details> <summary>Contact Us</summary>
+<img src="docs/validation/contact-html-validate.png"></details>
 
 #### CSS 
 I used the W3C Jigsaw CSS Valdation Service to validate the CSS of this website and it all passed. 
