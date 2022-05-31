@@ -201,9 +201,12 @@ style.CSS
 <img src="docs/validation/css-validates.png"></details>
 
 #### Accessiblity 
-Home
-About Us
-Products
+<details> <summary>Home</summary>
+<img src="docs/validation/accessibility-hone-page.png"></details>
+<details> <summary>About Us </summary>
+<img src="docs/validation//accessibility-about-page.png"></details>
+<details> <summary>Products </summary>
+<img src="docs/validation//accessibility-products-page.png"></details>
 Contact Us
 
 #### Performance 
