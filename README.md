@@ -101,6 +101,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 <img src="docs/wireframe/productpage-wireframe.png"></details>
 <details> <summary>Contact Us</summary>
 <img src=""></details>
+
 ## Technologies Used 
 
 ### Languages 
@@ -114,6 +115,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 * Font Awsome
 * Pexels
 * Tinypng
+* Favicon.io 
         
 ## Features
    
