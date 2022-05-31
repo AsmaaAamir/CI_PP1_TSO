@@ -502,12 +502,12 @@ footer h4 {
 }
 footer p {
     font-size: 20px;
-    color: purple;
+    color: darkblue;
     line-height: 26px;
     font-size: 25px;
 }
 footer p > a {
-    color:purple;
+    color:darkblue;
 }
 .social-links {
     display: flex;
@@ -518,7 +518,7 @@ footer p > a {
     display: flex;
     align-items: center;
     justify-content: center;
-    color:blueviolet;
+    color:darkblue;
     background-color:bisque;
     border-radius: 50%;
     margin:11px 5px;
