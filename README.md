@@ -248,7 +248,7 @@ I have tested the website on few different browser such as:
 |** Feature ** | ** Action ** | ** Expected Result **| ** Result **| 
 |---------|------- | ----------------|--------|
 |The Footer has adress information or user can go to Contact Us page| On any of the pages user can scroll down and find the address. Also on top any page the Navbar has contact page link| User shoudl be able to find the address | Works as expected| 
-Map | Go to Navigation bar and click on contact us, scroll down to the bottom | Map will show the location of the bakery| workes as expected|
+|Map | Go to Navigation bar and click on contact us, scroll down to the bottom | Map will show the location of the bakery| workes as expected|
  <details> <summary>Story 1</summary>
 <img src="docs/user-story/userstory-2.png"></details
 
