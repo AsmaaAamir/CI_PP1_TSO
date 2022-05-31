@@ -265,10 +265,10 @@ The images and video are from two different website below I will tell in appeara
 * About Page 
     - Shop in display image is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture </a>
     - The video is from  <a href="https://www.pexels.com/video/stirring-flour-and-condensed-milk-in-a-mixing-bowl-3325984/"> Pexels</a>
-    - The last image on this page is from Crumbs and Doilies.
+    - The last image on this page is from <a herf="https://www.instagram.com/crumbsanddoilies/">Crumbs and Doilies</a>.
 * Product Page
     - The Cake, Wedding Cake and Cupcake section images are from  <a href="https://www.instagram.com/annacakecouture/"> Annacakecoutre</a>. 
-    - The Brownines images are from  <a herf="https://www.instagram.com/crumbsanddoilies/"> Crumbs and Doilies</a>.
+    - The Brownines images are from <a herf="https://www.instagram.com/crumbsanddoilies/"> Crumbs and Doilies</a>.
    
 ### Acknowledgements 
 I would like to take this opportunit to thank :
