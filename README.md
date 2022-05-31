@@ -204,7 +204,7 @@ style.CSS
 
 #### Accessiblity 
 <details> <summary>Home</summary>
-<img src="docs/validation/accessibilty-home-page-png"></details>
+<img src="docs/validation/accessibility-home-page.png"></details>
 <details> <summary>About Us </summary>
 <img src="docs/validation//accessibility-about-page.png"></details>
 <details> <summary>Products </summary>
@@ -334,7 +334,7 @@ The images and video are from two different website below I will tell in appeara
         - <a href="https://www.pexels.com/photo/cupcakes-on-wooden-tray-near-sweets-and-macaroons-with-blueberries-7525120/"> Image 2 </a>
         - <a href="https://www.pexels.com/photo/crop-woman-with-tasty-macaroons-7525146/"> Image 3</a>
         - <a href="https://www.pexels.com/photo/lady-standing-in-cafeteria-and-demonstrating-sign-open-6205480/">Image 4 </a>
-    - Image in background for daily flavour and News is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture </a>. <br>Also the images in these section are from there.
+    - Image in background for daily flavour and News is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture. </a><br>Also the images in these section are from there.
 * About Page 
     - Caked on display in a shop image is from <a href="https://www.instagram.com/annacakecouture/">Annacakecouture </a>
     - The video is from  <a href="https://www.pexels.com/video/stirring-flour-and-condensed-milk-in-a-mixing-bowl-3325984/"> Pexels</a>
