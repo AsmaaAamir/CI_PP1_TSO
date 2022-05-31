@@ -217,18 +217,18 @@ To test perpormace of the website Google Lighthouse in Google Developer Tools wa
 <details> <summary>Contact Us</summary>
 <img src="docs/validation/contact-performance.png"></details>
 
-### Performing test on various devices
-Mac
-iPad
-iPhone 13 Max 
+#### Performing test on various devices
+* Mac
+* iPad
+* iPhone 13 Max 
         
 In addition, to above devises i have also tested using Google Chrome Developer Tool Device Toggeling option for most populer devices that are currenty avaible in the market. 
 
 #### Browser Compatabilty 
 I have tested the website on few different browser such as:
-Google Chrome
-Safari 
-Microsoft Egde
+* Google Chrome
+* Safari 
+* Microsoft Egde
 
 7. Bugs
 
