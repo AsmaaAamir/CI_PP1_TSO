@@ -44,14 +44,14 @@
 ### Site Owner Goals:
 * Boots business reputation and sales
 * Provide informtion about the business to new to returning users 
-* Giving user the accessbity to have a look what business has to offer them at ther own time 
-* providng userto stay on conatct with the business different ways.
+* Giving user the accessbity to have a look what business has to offer them at their own time 
+* providng user to stay in contact with the business different ways.
 
 ## User Experiencer
 
 #### Target Audience
 * Users looking to hire someone to bake their Wedding Cake or birthday cake.
-* User looking for last minute Cakes for birthday, some leave work or even a surprise.
+* User looking for last minute Cakes for birthday or any events.
 * Walk in user having the option to chose cupcake, brownies and Cakes takeaway with them. 
 
 ### Users Requirment and Expectations
@@ -63,32 +63,32 @@
 ### User Stories 
 
 ### First-time User:
-1. As first-time user, I want to know where I can find store contact number.
-2. As first-time user, I want to know how to find the store address.
-3. As first-time user, I would like to do a cake test for my wedding before I place my order.
-4. As first-time user, I want to know what kind on ingredient bakry uses.
+1. As first-time user, I want to know where I can find bakery contact number.
+2. As first-time user, I want to know how to find the bakery address.
+3. As first-time user, I would like to do  cake test for my wedding before I place my order.
+4. As first-time user, I want to know what kind on ingredient bakery uses.
 
 ### Returning User:
-1. As a returning user, I want to know where I could find daily freshly bakes flavours of cupcake and brownies. 
-2. As a returning user, I would like to alter my birthday cake order where do I do. 
-3. As a returning user, I want to know where can I find infromation about current or upcoming competition.
-4. As a returning user, I want to when can I place Mother's Day cake order.
+5. As a returning user, I want to know where I could find daily freshly bakes flavours of cupcake and brownies. 
+6. As a returning user, I would like to alter my birthday cake order where do I do. 
+7. As a returning user, I want to know where can I find infromation about current or upcoming competition.
+8. As a returning user, I want to when can I place Mother's Day cake order.
 
 ## Design 
 
 ### Design choice
-The webpage was designed with keeping the store and the logo in vision, giving its user experience of colour, happiness and comfort. 
+When design the webpage I kept the bakery and the logo in vision, giving its users experience of colour, happiness and comfort. 
 ### Colour
-When choosing the colour scheme, I kept the colourful cakes and happiness one feel when they are eatting a cake. Also keeping the logo in mind, I went for pink and light colours. 
+When choosing the colour scheme, I kept the colourful cakes and happiness one feel when they are eatting a cake. Also keeping the logo in mind so, I went for pink and bright colours. 
 ### Fonts
-When deciding on the font I kept the logo in mind and how the cake gives a smooth finsih. So, I chose dancing script for my heading matching my logo and caveat so it's easy-to-read the content. 
+When deciding on the font I kept the logo in mind and how the cake gives a smooth finish. So, I chose dancing script for my heading matching my logo and caveat so it's easy-to-read the content. 
 ### Strucure
-Upon arriving on the website, the user sees the logo with navigation bar which takes them to any of the pages they would like. However if the user wanted to go back to home pagethey could just click the logo on any page and  would take the user back to home page. 
+Upon arriving on the website, the user sees the logo with navigation bar which takes them to any of the pages they would like. However if the user wanted to go back to home page they could just click the logo on any page and would take the user back to home page. 
 The website consists of four pages:
-- A home page - that has two section one for Daily Flavours and second section is for News about the bakery. 
-- A about page - that tells user about the bakery, the ingredient the bakery uses and how everything is freshly  made every day. 
+- A home page - that has a carousel and two section one for Daily Flavours and second section is for News about the bakery. 
+- A about us page - that tells user about the bakery, the ingredient the bakery uses and how everything is freshly made every day. 
 - A product page - that gives you option to choose from products cakes, wedding Cakes, Cupcakes and Brownies.
-- A contact us page - that has a form allowing user to send bakery a message or enquiry, information on how contact store and a Map to find the bakery. 
+- A contact us page - that has a form allowing user to send bakery a message or enquiry, information on how contact bakery and a Map to find the bakery. 
 <br>
 Basicly the structue of the website is simple easy to learn your way and find what the user is looking for. 
 
@@ -121,7 +121,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 ## Features
    
 ### Logo & Navigation Bar
-The logo and the navbar is featured on all four pages and is fully responsive thus, the  navbar does chaneg in to a toggler (humburger) on a smaller screen. which inculdes links to all four pages. The logo on the left of the page is a link to home page is well, this allows the user to get back to home page quickly and effiently. 
+The logo and the navbar is featured on all four pages and is fully responsive thus, the  navbar does change in to a toggler (humburger) on a smaller screen. Which inculdes links to all four pages. The logo on the left of the page is a link to home page is well, this allows the user to get back to home page quickly and effiently. 
 <img src="docs/features/logo-navbar.png">
 
 ### Carousel
@@ -129,32 +129,32 @@ When the user open the webpage they are welcomed with a 4 slide show, thats give
 <img src="docs/features/carousle-screenshot.png">
     
 ### Daily Flavour's
-Allowes the user to have a look what flavours that are avalibale for cupcakes and brownies. <br>
-User story covered: 4 
+Allowes the user to have a look what flavours that are avalibale for cupcakes and brownies that are baked fresh every-day. <br>
+User story covered: 5 
 <img src="docs/features/dailyflavour-screenshot.png">
       
 ### News
-Allowes the users to see upcoming events order deadlines and if we have any ongoing or coming competition, whihc alows them to enter and win a price. <br>
-User story covered: 7 
+Allowes the users to see upcoming events order deadlines and if we have any ongoing or coming competition, whihc allows them to enter and win a price. <br>
+User story covered: 7 and 8 
 <img src="docs/features/news-screenshot.png">
 
 ### Footer
-The Footer is featured on all four pages and it contain contact information and soical media links. <br>
-User stories covered : 1 and 5
+The Footer is featured on all four pages and it contains contact information and social media links. <br>
+User stories covered : 1 and 2
 <img src="docs/features/footer-screenshot.png">
 
 ### About Us 
-This pages consistes of three section the first section gives a description on what we doa dn where we are located with a image of the front on the counter as you enter the store. 
+This pages consists of three section the first section gives a description on what bakery do and where they located with a image of the front on the counter as you enter the store. 
 <img src="docs/features/about-text-image.png">
-Second section tell you is a video, thats mute and on loop showing you cake mixture being mixed. 
+Second section tell is a video, thats mute and with controlls showing you cake mixture being mixed. 
 <img src="docs/features/video-screenshot.png">
-Thired section has sominformtipn about our recipies and ingrenetd with a image between. <br>
+Third section has some informtion about our recipies and ingredient with a image between. <br>
 User story: 6
 <img src="docs/features/recipes-ingredient.png">
 
 ### Products: 
 On this page users are able to see four section and Each section has four different flavour of that specific item and some information about what it contain's. <br>
-User stories: 2 and 3. <br>
+User stories: 3 and 6. <br>
 The four section are:
 
 - Cakes 
@@ -171,16 +171,16 @@ The four section are:
 
 
 ### Contact Form 
-User can use the fomr to conatc the store to palce orders or araneg ameetig for wedding cakes. <br>
+User can use the form to contact the bakery to place orders or arrange a meeting for wedding cakes. <br>
 User stories: 2 and 3. 
         
 ### Contact details 
 Provides the user with store locoation information and contact details. <br>
-User story: 1. 
+User story: 1 and 2. 
         
 ### Map 
 Shows the user where the store is locoated on embeded Googel Map. <br>
-User story: 5
+User story: 2.
 
 ## Testing 
 
@@ -209,7 +209,8 @@ style.CSS
 <img src="docs/validation//accessibility-about-page.png"></details>
 <details> <summary>Products </summary>
 <img src="docs/validation//accessibility-products-page.png"></details>
-Contact Us
+<details> <summary>Contact Us </summary>
+<img src="docs/validation//accessibility-contact-page.png"></details>
 
 #### Performance 
 To test perpormace of the website Google Lighthouse in Google Developer Tools was used.
