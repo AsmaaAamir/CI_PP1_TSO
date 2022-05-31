@@ -119,7 +119,8 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 * Bootstrap v 5.5
         
 ## Features
-   The Website consists od Four pages and 
+   The Website consists od Four pages and its consists of 15 features. 
+   
 ### Logo & Navigation Bar
 The logo and the navbar is featured on all four pages and is fully responsive thus, the  navbar does change in to a toggler (humburger) on a smaller screen. Which inculdes links to all four pages. The logo on the left of the page is a link to home page is well, this allows the user to get back to home page quickly and effiently. 
 <img src="docs/features/logo-navbar.png">
