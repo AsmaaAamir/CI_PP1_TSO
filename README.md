@@ -250,11 +250,16 @@ I followed the below steps to deploye this website using GitHub pages :
 5. It will take couple of mintues after refreshing your page you should see a light green ribbon on the top saying "Your site is published at https://asmaaaamir.github.io/CI_PP1_TSO/". 
 
 ## Credits
-### code
+
+### Code
+The HTML code for Navigation Bar [https://getbootstrap.com/docs/5.0/components/navbar/] was taken from Bootstrap v5.0. I did remove the search option from it and removed the colour in the background,The Carousel code was taken from Bootstrap is well [https://getbootstrap.com/docs/5.0/components/carousel/#with-indicators]. But i did add one more slide to the carsouel 
 ### Media 
-        Images
-        Video
- 
+The images and video are from two different website below I will tell in appearance of order;
+- All the four images in the carousle are from Pexels [https://www.pexels.com/search/image/].
+Image 3 <a href="https://www.pexels.com/photo/pink-macaroons-placed-among-carnations-on-table-7474293/"></a>
+Image 2 <a href="https://www.pexels.com/photo/cupcakes-on-wooden-tray-near-sweets-and-macaroons-with-blueberries-7525120/"> </a>
+Image 3 <a href="https://www.pexels.com/photo/crop-woman-with-tasty-macaroons-7525146/"></a>
+Image 4 <a href="https://www.pexels.com/photo/lady-standing-in-cafeteria-and-demonstrating-sign-open-6205480/"></a>
 ### Acknowledgements 
 I would like to take this opportunit to thank :
 - My mentor Mo Shami for his feedback , advise and guidance
