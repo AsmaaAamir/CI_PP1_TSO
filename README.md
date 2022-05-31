@@ -36,7 +36,7 @@
 11. [Acknowledgements](#acknowledgements)
 
 ## Projects Goals
-### User Goals:
+#### User Goals:
 * Find a bakery that offer cake of all kind of events. 
 * Find out what flavours of Cupcake and Brownies are baked daily.
 * Find the location of the bakery
@@ -49,12 +49,12 @@
 
 ## User Experiencer
 
-### Target Audience
+#### Target Audience
 * Users looking to hire someone to bake their Wedding Cake or birthday cake.
 * User looking for last minute Cakes for birthday, some leave work or even a surprise.
 * Walk in user having the option to chose cupcake, brownies and Cakes takeaway with them. 
 
-### Requirment and Expectations
+#### Requirment and Expectations
 * Good presentation and a visually appealing design   
 * A simple and easy navigation system, where the user can easily find relevant information
 * The content is efficient and accessible 
@@ -98,7 +98,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 
 ## Technologies Used 
 
-### Languages 
+#### Languages 
 * HTML 
 * CSS
 ### Frameworks & Tools
