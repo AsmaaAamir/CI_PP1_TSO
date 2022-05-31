@@ -207,10 +207,15 @@ Products
 Contact Us
 
 #### Performance 
-Home
-About Us
-Products
-Contact Us
+To test perpormace of the website Google Lighthouse in Google Developer Tools was used.
+<details> <summary>Home</summary>
+<img src="docs/validation/homepage-performance.png"></details>
+<details> <summary>About Us </summary>
+<img src="docs/validation/aboutpage-performance.png"></details>
+<details> <summary>Products </summary>
+<img src="docs/validation/productpage-performance.png"></details>
+<details> <summary>Contact Us</summary>
+<img src="docs/validation/contact-performance.png"></details>
 
 #### Performing test on various devices
 Mac
