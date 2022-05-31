@@ -107,6 +107,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 ### Languages 
 * HTML 
 * CSS
+
 ### Frameworks & Tools
 * GitHub 
 * GitPod
