@@ -65,7 +65,7 @@
 ### First-time User:
 1. As first-time user, I want to know where I can find store contact number.
 2. As first-time user, I want to know how to find the store address.
-3. As first-time user, I would like to taste test cake for my wedding before I place my order. 
+3. As first-time user, I would like to do a cake test for my wedding before I place my order.
 4. As first-time user, I want to know what kind on ingredient bakry uses.
 
 ### Returning User:
@@ -253,12 +253,12 @@ I have tested the website on few different browser such as:
  <details> <summary>Story 2</summary>
 <img src="docs/user-story/userstory-2.png"></details>
 
-3. As first-time user, I would like to taste test cake for my wedding before I place my order.
+3. As first-time user, I would like to do  a cake test for my wedding before I place my order.
 
 | Feature | Action | Expected Result | Result | 
 |---------|------- | ----------------|--------|
 |Form| Go to Navigation bar and click on contact us scroll down to form and fill in our detail someone from bakery will contact you| user shoudl be able to find the form and fill it | works as expected|
- <details> <summary>Story 1</summary>
+ <details> <summary>Story 3</summary>
 <img src="docs/user-story/userstory-3.png"></details>
 
 4. As first-time user, I want to know what kind on ingredient bakery uses.
@@ -266,7 +266,7 @@ I have tested the website on few different browser such as:
 | Feature | Action |  Expected Result| Result | 
 |---------|------- | ----------------|--------|
 |About Us page| Go to Navigation bar and click on About Us page and scroll down| User should be able to see Our ingredient section| works as expected|
-<details> <summary>Story 1</summary>
+<details> <summary>Story 4</summary>
 <img src="docs/user-story/userstory-4.png"></details>
 
 ### Returning User:
@@ -276,7 +276,7 @@ I have tested the website on few different browser such as:
 |---------|------- | ----------------|--------|
 |Daily Flavour| On home page if user scrolls down | User should be able to see Daily Flavour's section| works as expected|
 <details> <summary>Story 5</summary>
-<img src="doc/user-story/userstory-5png."></details>
+<img src="doc/user-story/userstory-5.png"></details>
 
 6. As a returning user, I would like to alter my birthday cake order where do I do. 
 
@@ -302,7 +302,7 @@ I have tested the website on few different browser such as:
 | Feature | Action |  Expected Result| Result | 
 |---------|------- | ----------------|--------|
 |News| On home page scroll down to the News section| User should be able to see News section when to place a order for Morthers Day | works as expected|
-<details> <summary>Story 7</summary>
+<details> <summary>Story 8</summary>
 <img src="docs/user-story/userstory7-8.png"></details>
 
 ### Bugs
