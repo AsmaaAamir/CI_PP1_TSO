@@ -263,12 +263,13 @@ The images and video are from two different website below I will tell in appeara
         Image 4 <a href="https://www.pexels.com/photo/lady-standing-in-cafeteria-and-demonstrating-sign-open-6205480/"></a>
     - Image in background for daily flavour and News is from Annacakecouture. Also the images in these section are from there.
 * About Page 
-    - Shop in display image is from Annacakecouture. 
+    - Shop in display image is from Annacakecouture< a href="https://www.instagram.com/annacakecouture/">. 
     - The video is from Pexels <a href="https://www.pexels.com/video/stirring-flour-and-condensed-milk-in-a-mixing-bowl-3325984/"> </a>
     - The last image on this page is from Crumbs and Doilies.
 * Product Page
-    - The Cake, Wedding Cake and Cupcake section images are from Annacakecoutre. 
-    - The Brownines images are from Crumbs and Doilies.
+    - The Cake, Wedding Cake and Cupcake section images are from Annacakecoutre <a href="https://www.instagram.com/annacakecouture/"> </a>. 
+    - The Brownines images are from Crumbs and Doilies <a herf="https://www.instagram.com/crumbsanddoilies/"> </a>.
+   
 ### Acknowledgements 
 I would like to take this opportunit to thank :
 - My mentor Mo Shami for his feedback , advise and guidance
