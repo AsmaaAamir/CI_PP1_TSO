@@ -119,7 +119,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 * Bootstrap v 5.5
         
 ## Features
-   
+   The Website consists od Four pages and 
 ### Logo & Navigation Bar
 The logo and the navbar is featured on all four pages and is fully responsive thus, the  navbar does change in to a toggler (humburger) on a smaller screen. Which inculdes links to all four pages. The logo on the left of the page is a link to home page is well, this allows the user to get back to home page quickly and effiently. 
 <img src="docs/features/logo-navbar.png">
@@ -173,14 +173,17 @@ The four section are:
 ### Contact Form 
 User can use the form to contact the bakery to place orders or arrange a meeting for wedding cakes. <br>
 User stories: 2 and 3. 
+<img src="docs/features/form-screenshot.png">
         
 ### Contact details 
 Provides the user with store locoation information and contact details. <br>
 User story: 1 and 2. 
-        
+<img src="docs/features/information-screenshot.png">
+
 ### Map 
 Shows the user where the store is locoated on embeded Googel Map. <br>
 User story: 2.
+<img src="docs/features/map-screenshot.png">
 
 ## Testing 
 
