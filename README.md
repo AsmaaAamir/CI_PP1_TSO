@@ -245,7 +245,7 @@ I have tested the website on few different browser such as:
 <img src="docs/user-story/userstory-1.png"></details>
 
 2. As first-time user, I want to know how to find the store address.
-|** Feature ** | ** Action ** | ** Expected Result **| ** Result **| 
+| Feature | Action | Expected Result | Result | 
 |---------|------- | ----------------|--------|
 |The Footer has adress information or user can go to Contact Us page| On any of the pages user can scroll down and find the address. Also on top any page the Navbar has contact page link| User shoudl be able to find the address | Works as expected| 
 |Map | Go to Navigation bar and click on contact us, scroll down to the bottom | Map will show the location of the bakery| workes as expected|
@@ -259,12 +259,11 @@ I have tested the website on few different browser such as:
  <details> <summary>Story 1</summary>
 <img src="docs/user-story/userstory-3.png"></details
 
-
 4. As first-time user, I want to know what kind on ingredient bakery uses.
 |** Feature ** | ** Action ** | ** Expected Result **| ** Result **| 
 |---------|------- | ----------------|--------|
 |About Us page| Go to Navigation bar and click on About Us page and scroll down| User should be able to see Our ingredient section| works as expected|
- <details> <summary>Story 1</summary>
+<details> <summary>Story 1</summary>
 <img src="docs/user-story/userstory-4.png"></details
 
 ### Returning User:
