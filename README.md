@@ -255,11 +255,20 @@ I followed the below steps to deploye this website using GitHub pages :
 The HTML code for Navigation Bar [https://getbootstrap.com/docs/5.0/components/navbar/] was taken from Bootstrap v5.0. I did remove the search option from it and removed the colour in the background,The Carousel code was taken from Bootstrap is well [https://getbootstrap.com/docs/5.0/components/carousel/#with-indicators]. But i did add one more slide to the carsouel 
 ### Media 
 The images and video are from two different website below I will tell in appearance of order;
-- All the four images in the carousle are from Pexels [https://www.pexels.com/search/image/].
-Image 3 <a href="https://www.pexels.com/photo/pink-macaroons-placed-among-carnations-on-table-7474293/"></a>
-Image 2 <a href="https://www.pexels.com/photo/cupcakes-on-wooden-tray-near-sweets-and-macaroons-with-blueberries-7525120/"> </a>
-Image 3 <a href="https://www.pexels.com/photo/crop-woman-with-tasty-macaroons-7525146/"></a>
-Image 4 <a href="https://www.pexels.com/photo/lady-standing-in-cafeteria-and-demonstrating-sign-open-6205480/"></a>
+* Home Page
+    - All the four images in the carousle are from Pexels [https://www.pexels.com/search/image/].
+        Image 3 <a href="https://www.pexels.com/photo/pink-macaroons-placed-among-carnations-on-table-7474293/"></a>
+        Image 2 <a href="https://www.pexels.com/photo/cupcakes-on-wooden-tray-near-sweets-and-macaroons-with-blueberries-7525120/"> </a>
+        Image 3 <a href="https://www.pexels.com/photo/crop-woman-with-tasty-macaroons-7525146/"></a>
+        Image 4 <a href="https://www.pexels.com/photo/lady-standing-in-cafeteria-and-demonstrating-sign-open-6205480/"></a>
+    - Image in background for daily flavour and News is from Annacakecouture. Also the images in these section are from there.
+* About Page 
+    - Shop in display image is from Annacakecouture. 
+    - The video is from Pexels <a href="https://www.pexels.com/video/stirring-flour-and-condensed-milk-in-a-mixing-bowl-3325984/"> </a>
+    - The last image on this page is from Crumbs and Doilies.
+* Product Page
+    - The Cake, Wedding Cake and Cupcake section images are from Annacakecoutre. 
+    - The Brownines images are from Crumbs and Doilies.
 ### Acknowledgements 
 I would like to take this opportunit to thank :
 - My mentor Mo Shami for his feedback , advise and guidance
