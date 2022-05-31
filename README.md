@@ -251,7 +251,7 @@ I have tested the website on few different browser such as:
 |The Footer has address information or user can go to Contact Us page| On any of the pages user can scroll down and find the address. Also on top any page the Navbar has contact page link| User shoudl be able to find the address | Works as expected| 
 |Map | Go to Navigation bar and click on contact us, scroll down to the bottom | Map will show the location of the bakery| workes as expected|
  <details> <summary>Story 2</summary>
-<img src="docs/user-story/userstory-2.png"></details
+<img src="docs/user-story/userstory-2.png"></details>
 
 3. As first-time user, I would like to taste test cake for my wedding before I place my order.
 
@@ -259,7 +259,7 @@ I have tested the website on few different browser such as:
 |---------|------- | ----------------|--------|
 |Form| Go to Navigation bar and click on contact us scroll down to form and fill in our detail someone from bakery will contact you| user shoudl be able to find the form and fill it | works as expected|
  <details> <summary>Story 1</summary>
-<img src="docs/user-story/userstory-3.png"></details
+<img src="docs/user-story/userstory-3.png"></details>
 
 4. As first-time user, I want to know what kind on ingredient bakery uses.
 
@@ -267,7 +267,7 @@ I have tested the website on few different browser such as:
 |---------|------- | ----------------|--------|
 |About Us page| Go to Navigation bar and click on About Us page and scroll down| User should be able to see Our ingredient section| works as expected|
 <details> <summary>Story 1</summary>
-<img src="docs/user-story/userstory-4.png"></details
+<img src="docs/user-story/userstory-4.png"></details>
 
 ### Returning User:
 5. As a returning user, I want to know where I could find daily freshly bakes flavours of cupcake and brownies. 
@@ -276,7 +276,7 @@ I have tested the website on few different browser such as:
 |---------|------- | ----------------|--------|
 |Daily Flavour| On home page if user scrolls down | User should be able to see Daily Flavour's section| works as expected|
 <details> <summary>Story 5</summary>
-<img src=""></details>
+<img src="doc/user-story/userstory-5png."></details>
 
 6. As a returning user, I would like to alter my birthday cake order where do I do. 
 
@@ -286,11 +286,24 @@ I have tested the website on few different browser such as:
 |The Footer has contact information or user can go to Contact Us page| On any of the pages user can scroll down and find the footer. Also on top any page the Navbar has contact page link| Find the contact number| Works as expected|  
 <details> <summary>Story 6</summary>
 <img src="docs/user-story/userstory-2.png">
-<img src="docs/user-story/userstory-1.png"></details
+<img src="docs/user-story/userstory-1.png"></details>
 
 
-7. As a returning user, I want to know where can I find infromation about current or upcoming competition.
-8. As a returning user, I want to when can I place Mothers Day cake order.
+7. As a returning user, I want to know where can I find information about current or upcoming competition.
+
+| Feature | Action |  Expected Result| Result | 
+|---------|------- | ----------------|--------|
+|News| On home page scroll down to the News section| User should be able to see News section where it should state about competition| works as expected|
+<details> <summary>Story 7</summary>
+<img src="docs/user-story/userstory7-8.png"></details>
+
+8. As a returning user, I want to when can I place Mothers Day cake order
+
+| Feature | Action |  Expected Result| Result | 
+|---------|------- | ----------------|--------|
+|News| On home page scroll down to the News section| User should be able to see News section when to place a order for Morthers Day | works as expected|
+<details> <summary>Story 7</summary>
+<img src="docs/user-story/userstory7-8.png"></details>
 
 ### Bugs
 
