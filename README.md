@@ -5,7 +5,7 @@
 [Live Webpage](https://asmaaaamir.github.io/CT_PP1_TSO/)
 
 
-1. [Project Goals](#proj)
+1. [Project Goals](#projects-goals)
     1. [User Goals](#user-goals)
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
@@ -36,7 +36,7 @@
 11. [Acknowledgements](#acknowledgements)
 
 ## Projects Goals
-#### User Goals:
+### User Goals:
 * Find a bakery that offer cake of all kind of events. 
 * Find out what flavours of Cupcake and Brownies are baked daily.
 * Find the location of the bakery
@@ -54,7 +54,7 @@
 * User looking for last minute Cakes for birthday, some leave work or even a surprise.
 * Walk in user having the option to chose cupcake, brownies and Cakes takeaway with them. 
 
-#### Requirment and Expectations
+### Requirment and Expectations
 * Good presentation and a visually appealing design   
 * A simple and easy navigation system, where the user can easily find relevant information
 * The content is efficient and accessible 
@@ -62,13 +62,13 @@
 
 ### User Stories 
 
-#### First-time User:
+### First-time User:
 1. As first-time user, I want to know where I can find store contact number.
 2. As first-time user, I want to know how to find the store address.
 3. As first-time user, I would like to taste test cake for my wedding before I place my order. 
 4. As first-time user, I want to know what kind on ingredient bakry uses.
 
-#### Returning User:
+### Returning User:
 1. As a returning user, I want to know where I could find daily freshly bakes flavours of cupcake and brownies. 
 2. As a returning user, I would like to alter my birthday cake order where do I do. 
 3. As a returning user, I want to know where can I find infromation about current or upcoming competition.
@@ -95,10 +95,15 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 ### Wireframes
 <details> <summary>Home</summary>
 <img src="docs/wireframe/homepage-wireframe.png"></details>
-
+<details> <summary>About Us</summary>
+<img src="docs/wireframe/aboutpage-wireframe.png"></details>
+<details> <summary>Products</summary>
+<img src="docs/wireframe/pdrouctpage-wireframe.png"></details>
+<details> <summary>Contact Us</summary>
+<img src=""></details>
 ## Technologies Used 
 
-#### Languages 
+### Languages 
 * HTML 
 * CSS
 ### Frameworks & Tools
