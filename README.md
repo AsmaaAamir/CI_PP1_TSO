@@ -35,8 +35,9 @@
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
 
-1. Projects Goals
-    1. User Goals:
+## Projects Goals
+
+     User Goals:
         * Find a bakery that offer cake of all kind of events. 
         * Find out what flavours of Cupcake and Brownies are baked daily.
         * Find the location of the bakery
@@ -47,7 +48,8 @@
         * Giving user the accessbity to have a look what business has to offer them at ther own time 
         * providng userto stay on conatct with the business different ways.
 
-2. User Experiencer
+## User Experiencer
+
     1. Target Audience
         * Users looking to hire someone to bake their Wedding Cake or birthday cake.
         * User looking for last minute Cakes for birthday, some leave work or even a surprise.
