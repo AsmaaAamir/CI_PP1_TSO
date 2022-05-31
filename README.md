@@ -145,12 +145,12 @@ User stories covered : 1 and 5
 
 ### About Us 
 This pages consistes of three section the first section gives a description on what we doa dn where we are located with a image of the front on the counter as you enter the store. 
-<img src="doc/features/about-text-image.png">
+<img src="docs/features/about-text-image.png">
 Second section tell you is a video, thats mute and on loop showing you cake mixture being mixed. 
-<img src="doc/features/video-screenshot.png">
+<img src="docs/features/video-screenshot.png">
 thired section has sominformtipn about our recipies and ingrenetd with a image between. 
 User story: 6
-<img src="doc/features/recipes-ingredient.png">
+<img src="docs/features/recipes-ingredient.png">
 
 ### Products: 
 On this page customer are able to see four section:
