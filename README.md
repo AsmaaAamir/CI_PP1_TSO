@@ -90,6 +90,7 @@
         Basicly the structue of the website is simple easy to learn your way and find what user is looking for. 
 
     5.Wireframes
+        [Home](docs/wireframe/homepage-wireframe.png)
 
 
 4. Technologies Used 
