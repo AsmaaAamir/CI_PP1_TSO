@@ -116,6 +116,7 @@ Basicly the structue of the website is simple easy to learn your way and find wh
 * Pexels
 * Tinypng
 * Favicon.io 
+* Bootstrap v 5.5
         
 ## Features
    
