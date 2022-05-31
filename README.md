@@ -235,9 +235,10 @@ I have tested the website on few different browser such as:
 
 7. Bugs
 
-|Bug | Fix |
-|On smaller screen the toggle was moved to left handside | In style sheet added !important to justify-content.
-|Carousle next and previouse button were taking all the space on home page | In styles sheet add te presentage and transform. 
+|**Bug ** | ** Fix ** |
+|-----        |  ----------- |
+|On smaller screen the toggle was moved to left handside | In style sheet added !important to justify-content|
+|Carousle next and previouse button were taking all the space on home page | In styles sheet add te presentage and transform. |
 
 8. Deployment
 
