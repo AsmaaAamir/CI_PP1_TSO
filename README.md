@@ -4,7 +4,7 @@
 
 [Live Webpage](https://asmaaaamir.github.io/CI_PP1_TSO/)
 
-
+## Table of Content
 1. [Project Goals](#projects-goals)
     1. [User Goals](#user-goals)
     2. [Site Owner Goals](#site-owner-goals)
