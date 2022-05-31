@@ -36,42 +36,42 @@
 11. [Acknowledgements](#acknowledgements)
 
 1. Projects Goals
-    User Goals:
+    1. User Goals:
         * Find a bakery that offer cake of all kind of events. 
         * Find out what flavours of Cupcake and Brownies are baked daily.
         * Find the location of the bakery
 
-    Site Owner Goals:
-        Boots business reputation and sales
-        Provide informtion about the business to new to returning users 
-        Giving user the accessbity to have a look what business has to offer them at ther own time 
-        providng userto stay on conatct with the business different ways.
+   2.  Site Owner Goals:
+        * Boots business reputation and sales
+        * Provide informtion about the business to new to returning users 
+        * Giving user the accessbity to have a look what business has to offer them at ther own time 
+        * providng userto stay on conatct with the business different ways.
 
 2. User Experiencer
-    1.Target Audience
-        Users looking to hire someone to bake their Wedding Cake or birthday cake.
-        User looking for last minute Cakes for birthday, some leave work or even a surprise.
-        Walk in user having the option to chose cupcake, brownies and Cakes takeaway with them. 
+    1. Target Audience
+        * Users looking to hire someone to bake their Wedding Cake or birthday cake.
+        * User looking for last minute Cakes for birthday, some leave work or even a surprise.
+        * Walk in user having the option to chose cupcake, brownies and Cakes takeaway with them. 
 
-    2.Requirment and Expectations
-        Good presentation and a visually appealing design   
-        A simple and easy navigation system, where the user can easily find relevant information
-        The content is efficient and accessible 
-        Links and funcation that work as expected 
+    2. Requirment and Expectations
+        * Good presentation and a visually appealing design   
+        * A simple and easy navigation system, where the user can easily find relevant information
+        * The content is efficient and accessible 
+        * Links and funcation that work as expected 
 
-    3.User Stories 
+    3. User Stories 
 
     First-time User:
-        As first-time user, I want to know where I can find store contact number.
-        As first-time user, I want to know how to find the store address.
-        As first-time user, I would like to taste test cake for my wedding before I place my order. 
-        As first-time user, I want to know what kind on ingredient bakry uses.
+        1. As first-time user, I want to know where I can find store contact number.
+        2. As first-time user, I want to know how to find the store address.
+        3. As first-time user, I would like to taste test cake for my wedding before I place my order. 
+        4. As first-time user, I want to know what kind on ingredient bakry uses.
 
     Returning User:
-        As a returning user, I want to know where I could find daily freshly bakes flavours of cupcake and brownies. 
-        As a returning user, I would like to alter my birthday cake order where do I do. 
-        As a returning user, I want to know where can I find infromation about current or upcoming competition.
-        As a returning user, I want to when can I place Mother's Day cake order.
+        1. As a returning user, I want to know where I could find daily freshly bakes flavours of cupcake and brownies. 
+        2. As a returning user, I would like to alter my birthday cake order where do I do. 
+        3. As a returning user, I want to know where can I find infromation about current or upcoming competition.
+        4. As a returning user, I want to when can I place Mother's Day cake order.
 
 3. Design 
     1.Design choice
